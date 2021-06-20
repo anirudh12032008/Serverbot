@@ -1,0 +1,5 @@
+whats happening- anithecoder
+
+ok so I am going to make a message.js file and put all the contents of message event there - Krish
+
+Nice! All done start making new commands. - Krish
